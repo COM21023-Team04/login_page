@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="intro_text">Welcome\n To FitKeep</string>
+    <string name="intro_subtitle">Healthcare like never before ...</string>
+</resources>
