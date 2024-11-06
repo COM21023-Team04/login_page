@@ -2,4 +2,8 @@
 <resources>
 
     <style name="Theme.MyApplication" parent="android:Theme.Material.Light.NoActionBar" />
+    <style name="CircleImageView"
+        <item name="cornerFamily">rounded</item>
+        <item name="cornersize">50%</item>
+        <item name="borderWidth">3dp</item>
 </resources>
